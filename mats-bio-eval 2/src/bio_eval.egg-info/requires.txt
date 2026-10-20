@@ -1,9 +1,0 @@
-inspect-ai==0.3.282
-python-dotenv
-biotite==2.0.0
-numpy==2.5.4
-scipy==1.18.1
-matplotlib==3.11.2
-
-[dev]
-pytest
