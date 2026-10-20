@@ -1,0 +1,285 @@
+model,max_tokens,log_file,run_id,author_resnum,strand_id,epoch,label,confidence,correct,robust,raw
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,12,b1,1,AWAY,0.75,False,True,"{""label"": ""AWAY"", ""confidence"": 0.75}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,13,b1,1,AWAY,0.78,True,True,"{""label"":""AWAY"",""confidence"":0.78}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,14,b1,1,AWAY,0.75,False,True,"{
+  ""label"": ""AWAY"",
+  ""confidence"": 0.75
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,15,b1,1,TOWARD,0.85,False,True,"{
+  ""label"": ""TOWARD"",
+  ""confidence"": 0.85
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,16,b1,1,TOWARD,0.86,True,True,"{""label"": ""TOWARD"", ""confidence"": 0.86}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,17,b1,1,AWAY,0.62,True,True,"{
+  ""label"": ""AWAY"",
+  ""confidence"": 0.62
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,18,b1,1,AWAY,0.78,False,True,"{""label"": ""AWAY"", ""confidence"": 0.78}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,19,b1,1,TOWARD,0.75,False,True,"{
+  ""label"": ""TOWARD"",
+  ""confidence"": 0.75
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,20,b1,1,AWAY,0.72,False,True,"{
+  ""label"": ""AWAY"",
+  ""confidence"": 0.72
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,21,b1,1,AWAY,0.75,True,True,"{""label"": ""AWAY"", ""confidence"": 0.75}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,22,b1,1,TOWARD,0.81,True,True,"{
+  ""label"": ""TOWARD"",
+  ""confidence"": 0.81
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,25,b2,1,AWAY,0.78,True,True,"{
+  ""label"": ""AWAY"",
+  ""confidence"": 0.78
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,26,b2,1,AWAY,0.78,True,True,"{
+  ""label"": ""AWAY"",
+  ""confidence"": 0.78
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,27,b2,1,TOWARD,0.86,True,True,"{""label"": ""TOWARD"", ""confidence"": 0.86}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,28,b2,1,AWAY,0.71,True,True,"{
+  ""label"": ""AWAY"",
+  ""confidence"": 0.71
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,29,b2,1,TOWARD,0.85,True,True,"{""label"": ""TOWARD"", ""confidence"": 0.85}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,30,b2,1,AWAY,0.86,True,True,"{
+  ""label"": ""AWAY"",
+  ""confidence"": 0.86
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,31,b2,1,AWAY,0.81,False,True,"{""label"": ""AWAY"", ""confidence"": 0.81}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,32,b2,1,AWAY,0.78,True,True,"{
+  ""label"": ""AWAY"",
+  ""confidence"": 0.78
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,33,b2,1,TOWARD,0.71,True,True,"{
+  ""label"": ""TOWARD"",
+  ""confidence"": 0.71
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,34,b2,1,AWAY,0.78,True,True,"{
+  ""label"": ""AWAY"",
+  ""confidence"": 0.78
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,35,b2,1,TOWARD,0.7,True,True,"{
+  ""label"": ""TOWARD"",
+  ""confidence"": 0.7
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,36,b2,1,AWAY,0.73,True,True,"{""label"": ""AWAY"", ""confidence"": 0.73}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,41,b3,1,AWAY,0.75,True,True,"{
+  ""label"": ""AWAY"",
+  ""confidence"": 0.75
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,42,b3,1,TOWARD,0.81,True,True,"{
+  ""label"": ""TOWARD"",
+  ""confidence"": 0.81
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,43,b3,1,AWAY,0.75,True,True,"{""label"": ""AWAY"", ""confidence"": 0.75}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,44,b3,1,TOWARD,0.86,True,True,"{
+  ""label"": ""TOWARD"",
+  ""confidence"": 0.86
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,45,b3,1,AWAY,0.71,True,True,"{
+  ""label"": ""AWAY"",
+  ""confidence"": 0.71
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,46,b3,1,TOWARD,0.86,True,True,"{""label"": ""TOWARD"", ""confidence"": 0.86}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,47,b3,1,TOWARD,0.71,False,True,"{""label"": ""TOWARD"", ""confidence"": 0.71}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,48,b3,1,AWAY,0.78,True,True,"{""label"": ""AWAY"", ""confidence"": 0.78}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,92,b4,1,TOWARD,0.82,True,True,"{""label"": ""TOWARD"", ""confidence"": 0.82}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,93,b4,1,TOWARD,0.68,False,True,"{""label"": ""TOWARD"", ""confidence"": 0.68}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,94,b4,1,TOWARD,0.85,True,True,"{""label"": ""TOWARD"", ""confidence"": 0.85}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,95,b4,1,TOWARD,0.78,False,True,"{""label"": ""TOWARD"", ""confidence"": 0.78}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,96,b4,1,TOWARD,,True,True,"{""label"": ""TOWARD"", ""confidence"": 0. nine}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,97,b4,1,AWAY,0.75,True,True,"{""label"": ""AWAY"", ""confidence"": 0.75}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,98,b4,1,TOWARD,0.85,True,True,"{""label"": ""TOWARD"", ""confidence"": 0.85}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,99,b4,1,TOWARD,0.71,False,True,"{
+  ""label"": ""TOWARD"",
+  ""confidence"": 0.71
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,100,b4,1,TOWARD,0.65,True,True,"{
+  ""label"": ""TOWARD"",
+  ""confidence"": 0.65
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,105,b5,1,TOWARD,0.85,False,True,"{
+  ""label"": ""TOWARD"",
+  ""confidence"": 0.85
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,106,b5,1,AWAY,0.62,False,True,"{
+  ""label"": ""AWAY"",
+  ""confidence"": 0.62
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,107,b5,1,AWAY,0.78,True,True,"{
+  ""label"": ""AWAY"",
+  ""confidence"": 0.78
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,108,b5,1,AWAY,0.78,False,True,"{
+  ""label"": ""AWAY"",
+  ""confidence"": 0.78
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,109,b5,1,TOWARD,0.75,False,True,"{
+  ""label"": ""TOWARD"",
+  ""confidence"": 0.75
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,110,b5,1,TOWARD,0.73,True,True,"{""label"": ""TOWARD"", ""confidence"": 0.73}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,111,b5,1,TOWARD,0.78,False,True,"{
+  ""label"": ""TOWARD"",
+  ""confidence"": 0.78
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,112,b5,1,TOWARD,0.86,True,True,"{""label"":""TOWARD"",""confidence"":0.86}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,113,b5,1,TOWARD,0.75,False,True,"{
+  ""label"": ""TOWARD"",
+  ""confidence"": 0.75
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,114,b5,1,TOWARD,0.78,True,False,"{
+  ""label"": ""TOWARD"",
+  ""confidence"": 0.78
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,115,b5,1,AWAY,0.71,True,False,"{""label"": ""AWAY"", ""confidence"": 0.71}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,118,b6,1,AWAY,0.78,True,False,"{""label"": ""AWAY"", ""confidence"": 0.78}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,119,b6,1,TOWARD,0.86,True,True,"{""label"": ""TOWARD"", ""confidence"": 0.86}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,120,b6,1,TOWARD,0.75,False,True,"{
+  ""label"": ""TOWARD"",
+  ""confidence"": 0.75
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,121,b6,1,AWAY,0.75,False,True,"{
+  ""label"": ""AWAY"",
+  ""confidence"": 0.75
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,122,b6,1,AWAY,0.78,True,True,"{
+  ""label"": ""AWAY"",
+  ""confidence"": 0.78
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,123,b6,1,TOWARD,0.71,True,True,"{
+  ""label"": ""TOWARD"",
+  ""confidence"": 0.71
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,124,b6,1,AWAY,0.71,True,True,"{""label"": ""AWAY"", ""confidence"": 0.71}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,125,b6,1,TOWARD,0.85,True,True,"{""label"": ""TOWARD"", ""confidence"": 0.85}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,126,b6,1,TOWARD,0.71,False,True,"{""label"": ""TOWARD"", ""confidence"": 0.71}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,127,b6,1,TOWARD,0.71,True,True,"{""label"": ""TOWARD"", ""confidence"": 0.71}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,128,b6,1,AWAY,0.71,True,True,"{""label"": ""AWAY"", ""confidence"": 0.71}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,148,b7,1,AWAY,0.86,False,True,"{
+  ""label"": ""AWAY"",
+  ""confidence"": 0.86
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,149,b7,1,TOWARD,0.78,False,True,"{
+  ""label"": ""TOWARD"",
+  ""confidence"": 0.78
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,150,b7,1,TOWARD,0.86,True,True,"{""label"": ""TOWARD"", ""confidence"": 0.86}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,151,b7,1,AWAY,0.75,True,True,"{""label"": ""AWAY"", ""confidence"": 0.75}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,152,b7,1,AWAY,0.86,False,True,"{
+  ""label"": ""AWAY"",
+  ""confidence"": 0.86
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,160,b8,1,AWAY,0.78,False,True,"{
+    ""label"": ""AWAY"",
+    ""confidence"": 0.78
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,161,b8,1,TOWARD,0.78,True,True,"{
+  ""label"": ""TOWARD"",
+  ""confidence"": 0.78
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,162,b8,1,AWAY,0.88,True,True,"{
+  ""label"": ""AWAY"",
+  ""confidence"": 0.88
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,163,b8,1,TOWARD,0.86,True,True,"{""label"": ""TOWARD"", ""confidence"": 0.86}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,164,b8,1,TOWARD,0.85,False,True,"{""label"":""TOWARD"",""confidence"":0.85}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,165,b8,1,TOWARD,0.88,True,True,"{
+  ""label"": ""TOWARD"",
+  ""confidence"": 0.88
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,166,b8,1,AWAY,0.86,True,True,"{
+  ""label"": ""AWAY"",
+  ""confidence"": 0.86
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,167,b8,1,TOWARD,0.75,True,True,"{
+  ""label"": ""TOWARD"",
+  ""confidence"": 0.75
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,168,b8,1,AWAY,0.85,True,False,"{""label"": ""AWAY"", ""confidence"": 0.85}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,169,b8,1,TOWARD,0.73,True,True,"{
+  ""label"": ""TOWARD"",
+  ""confidence"": 0.73
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,170,b8,1,AWAY,0.71,False,False,"{
+  ""label"": ""AWAY"",
+  ""confidence"": 0.71
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,176,b9,1,TOWARD,0.65,True,True,"{""label"": ""TOWARD"", ""confidence"": 0.65}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,177,b9,1,AWAY,0.78,True,False,"{""label"": ""AWAY"", ""confidence"": 0.78}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,178,b9,1,TOWARD,0.85,False,False,"{
+  ""label"": ""TOWARD"",
+  ""confidence"": 0.85
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,179,b9,1,TOWARD,0.78,True,True,"{""label"": ""TOWARD"", ""confidence"": 0.78}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,180,b9,1,AWAY,0.75,True,True,"{
+  ""label"": ""AWAY"",
+  ""confidence"": 0.75
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,181,b9,1,AWAY,0.86,False,True,"{
+  ""label"": ""AWAY"",
+  ""confidence"": 0.86
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,182,b9,1,TOWARD,0.73,False,True,"{
+  ""label"": ""TOWARD"",
+  ""confidence"": 0.73
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,183,b9,1,TOWARD,0.71,True,True,"{""label"": ""TOWARD"", ""confidence"": 0.71}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,184,b9,1,AWAY,0.75,True,True,"{
+  ""label"": ""AWAY"",
+  ""confidence"": 0.75
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,185,b9,1,AWAY,0.81,False,True,"{
+  ""label"": ""AWAY"",
+  ""confidence"": 0.81
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,186,b9,1,AWAY,0.71,True,True,"{
+  ""label"": ""AWAY"",
+  ""confidence"": 0.71
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,187,b9,1,AWAY,0.75,True,True,"{
+  ""label"": ""AWAY"",
+  ""confidence"": 0.75
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,199,b10,1,TOWARD,0.78,True,True,"{""label"": ""TOWARD"", ""confidence"": 0.78}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,200,b10,1,AWAY,0.85,True,True,"{""label"": ""AWAY"", ""confidence"": 0.85}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,201,b10,1,TOWARD,0.85,True,True,"{
+  ""label"": ""TOWARD"",
+  ""confidence"": 0.85
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,202,b10,1,AWAY,0.86,True,True,"{
+  ""label"": ""AWAY"",
+  ""confidence"": 0.86
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,203,b10,1,TOWARD,0.93,True,True,"{""label"": ""TOWARD"", ""confidence"": 0.93}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,204,b10,1,AWAY,0.78,True,True,"{""label"": ""AWAY"", ""confidence"": 0.78}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,205,b10,1,TOWARD,0.92,True,True,"{
+  ""label"": ""TOWARD"",
+  ""confidence"": 0.92
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,206,b10,1,AWAY,0.95,True,True,"{
+  ""label"": ""AWAY"",
+  ""confidence"": 0.95
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,207,b10,1,TOWARD,0.85,True,True,"{""label"": ""TOWARD"", ""confidence"": 0.85}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,220,b11,1,TOWARD,0.9,True,True,"{
+  ""label"": ""TOWARD"",
+  ""confidence"": 0.9
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,221,b11,1,AWAY,0.78,True,True,"{""label"": ""AWAY"", ""confidence"": 0.78}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,222,b11,1,TOWARD,0.96,True,True,"{""label"": ""TOWARD"", ""confidence"": 0.96}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,223,b11,1,TOWARD,0.86,False,True,"{""label"": ""TOWARD"", ""confidence"": 0.86}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,224,b11,1,AWAY,0.71,False,True,"{""label"": ""AWAY"", ""confidence"": 0.71}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,225,b11,1,AWAY,0.78,True,True,"{
+  ""label"": ""AWAY"",
+  ""confidence"": 0.78
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,226,b11,1,AWAY,0.71,True,False,"{
+  ""label"": ""AWAY"",
+  ""confidence"": 0.71
+}"
+together/openai/gpt-oss-120b,2048,results/logs/2026-10-20T21-24-11-00-00_gfp-barrel-orientation_QsRsgKWWLiDMesDoa6CdqX.eval,HEsP2AFCPvMpzDV7F2AMXy,227,b11,1,AWAY,0.71,False,False,"{
+  ""label"": ""AWAY"",
+  ""confidence"": 0.71
+}"
